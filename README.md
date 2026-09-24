@@ -1,83 +1,60 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&lines=0exu;Systems+Builder;Cybernetics+for+Code;Building+fast,+secure,+clean+software" alt="Typing SVG" />
-</div>
 
-<h1 align="center">0exu</h1>
+# 0exu
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Systems%20%7C%20Automation-00F5D4?style=for-the-badge&logo=codepen&logoColor=black" alt="Focus" />
-  <img src="https://img.shields.io/badge/Mode-Remote%20%2F%20Distributed-3B82F6?style=for-the-badge" alt="Mode" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Python%20%7C%20Go-8B5CF6?style=for-the-badge" alt="Stack" />
-</p>
+**Backend Engineer · Systems Builder · Automation**
 
-<p align="center">
-  <i>Building tools, systems, and interfaces for the next layer of the internet.</i>
-</p>
+Building reliable software, developer tools, and practical systems.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0exu/0exu/main/assets/neon-grid.svg" width="100%" alt="neon grid" />
+[![GitHub](https://img.shields.io/badge/GitHub-0exu-181717?style=flat-square&logo=github)](https://github.com/0exu)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=protonmail)](mailto:0exu@proton.me)
+
 </div>
 
 ## About
 
-I design and build software that feels fast, reliable, and human. My work sits at the intersection of backend engineering, systems thinking, developer tooling, and product-minded automation.
+I design and build clean, reliable software with a focus on backend engineering, systems, automation, and developer experience.
 
-I care about:
+I value:
 
-- clean architecture and maintainable systems
-- resilient APIs and performance under load
-- thoughtful tooling that helps people ship faster
-- security, observability, and real-world reliability
-- turning messy ideas into systems that scale
+- Simple architecture that scales
+- Reliable APIs and production-ready systems
+- Automation that removes unnecessary work
+- Secure, maintainable, and observable software
+
+## Technologies
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
 
 ## Current focus
 
-- shipping practical, production-ready tooling
-- exploring distributed systems and automation patterns
-- refining developer workflows and internal platform thinking
-- building products that are useful before they are flashy
+- Backend and distributed systems
+- Developer tooling and automation
+- Secure, observable infrastructure
+- Building useful products with lasting value
 
-## Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-## Signal
-
-```text
-[system] boot_sequence: online
-[identity] 0exu // craft systems, not noise
-[focus] backend engineering / automation / tooling
-[vision] resilient software for real-world use
-[status] building in public
-```
-
-## GitHub stats
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0exu&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0exu&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=0exu&show_icons=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=57606A&hide=contribs" alt="GitHub statistics" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0exu&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=57606A" alt="Most used languages" height="160" />
+
 </div>
 
-## Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/0exu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0exu-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:0exu@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=mail.ru" alt="Email" />
-  </a>
-</p>
+[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=0exu&bg_color=ffffff&color=57606A&line=0969DA&point=0969DA&area=true&hide_border=true)](https://github.com/0exu)
 
-<p align="center">
-  <i>"I build what matters, then make it scale."</i>
-</p>
+</div>
